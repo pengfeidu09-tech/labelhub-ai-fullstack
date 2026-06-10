@@ -1,0 +1,11 @@
+{
+  "provider": "dashscope",
+  "model": "qwen3.7-plus",
+  "prompt_version": "labelhub_qa_quality_v1",
+  "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "timeout_seconds": 25,
+  "mock_fallback": true,
+  "force_json": true,
+  "updated_at": "2026-06-04T03:36:42.894103+00:00",
+  "updated_by": "owner"
+}

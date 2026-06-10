@@ -1,0 +1,43 @@
+# .gitignore
+
+# Environment
+.env
+.env.local
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Backend
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Database
+*.db-journal
+*.db.bak
+*.sqlite.bak
+
+# Exports
+exports/
+backend/exports/
+
+# Backup
+backup/
+migration_backup*/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip

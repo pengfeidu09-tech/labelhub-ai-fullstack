@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pc_001",
+    "prompt": "什么是机器学习？",
+    "response_a": "机器学习是人工智能的一个分支，它使计算机系统能够从数据中学习并改进其性能，而无需进行明确编程。",
+    "response_b": "机器学习就是让电脑自己学会做事，不用人写太多代码。",
+    "model_a": "Model-X",
+    "model_b": "Model-Y",
+    "dimensions": ["正确性", "完整性", "易懂性"],
+    "safety_flag": "safe",
+    "preferred": "a",
+    "margin": "large"
+  },
+  {
+    "id": "pc_002",
+    "prompt": "为什么天空是蓝色的？",
+    "response_a": "天空之所以呈现蓝色，是因为大气中的分子对太阳光的散射作用。蓝光波长较短，更容易被散射。",
+    "response_b": "天空是蓝色的，因为海水倒映的结果。",
+    "model_a": "Model-A",
+    "model_b": "Model-B",
+    "dimensions": ["正确性", "科学性"],
+    "safety_flag": "safe",
+    "preferred": "a",
+    "margin": "large"
+  },
+  {
+    "id": "pc_003",
+    "prompt": "如何学习编程？",
+    "response_a": "学习编程建议：1.选择一门编程语言（如Python）；2.学习基础语法；3.做练习项目；4.参与开源社区；5.持续实践。",
+    "response_b": "编程就是写代码，很简单的，随便学学就会了。",
+    "model_a": "Mentor-GPT",
+    "model_b": "Quick-AI",
+    "dimensions": ["完整性", "实用性", "准确性"],
+    "safety_flag": "safe",
+    "preferred": "a",
+    "margin": "large"
+  },
+  {
+    "id": "pc_004",
+    "prompt": "解释一下相对论",
+    "response_a": "相对论是物理学中的一个理论框架，主要由爱因斯坦提出，包括狭义相对论和广义相对论。狭义相对论指出物理定律在所有惯性参考系中都是相同的；广义相对论则将引力解释为时空的弯曲。",
+    "response_b": "相对论就是什么东西都是相对的，没有绝对的。",
+    "model_a": "Physics-Expert",
+    "model_b": "Simple-AI",
+    "dimensions": ["准确性", "完整性", "科学性"],
+    "safety_flag": "safe",
+    "preferred": "a",
+    "margin": "large"
+  },
+  {
+    "id": "pc_005",
+    "prompt": "推荐一些学习英语的方法",
+    "response_a": "英语学习建议：1.每天背单词；2.练习听力；3.阅读英文文章；4.用英语写日记；5.参加语言交换；6.看英文电影。",
+    "response_b": "学英语就是要多说多说多说，不要怕犯错。",
+    "model_a": "Teacher-GPT",
+    "model_b": "Simple-AI",
+    "dimensions": ["实用性", "完整性", "易懂性"],
+    "safety_flag": "safe",
+    "preferred": "a",
+    "margin": "small"
+  }
+]

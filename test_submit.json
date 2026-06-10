@@ -1,0 +1,21 @@
+{
+  "task_id": 1,
+  "dataset_item_id": 10,
+  "labeler_id": 2,
+  "template_id": 10,
+  "data": {
+    "relevance": "high",
+    "accuracy": "correct",
+    "completeness": "complete",
+    "safety": "safe",
+    "reason": "test submission"
+  },
+  "result": {
+    "relevance": "high",
+    "accuracy": "correct",
+    "completeness": "complete",
+    "safety": "safe",
+    "reason": "test submission"
+  },
+  "status": "submitted"
+}

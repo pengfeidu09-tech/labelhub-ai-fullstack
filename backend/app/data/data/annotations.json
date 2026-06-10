@@ -1,0 +1,1128 @@
+[
+  {
+    "id": 1,
+    "task_id": 1,
+    "dataset_item_id": 10,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "completeness": "complete",
+      "accuracy": "correct",
+      "safety": "safe",
+      "reason": "回答合理",
+      "issue_tags": [
+        "incomplete"
+      ]
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "completeness": "complete",
+      "accuracy": "correct",
+      "safety": "safe",
+      "reason": "回答合理",
+      "issue_tags": [
+        "incomplete"
+      ]
+    },
+    "data": {
+      "relevance": "high",
+      "completeness": "complete",
+      "accuracy": "correct",
+      "safety": "safe",
+      "reason": "回答合理",
+      "issue_tags": [
+        "incomplete"
+      ]
+    },
+    "ai_review": null,
+    "status": "approved",
+    "revision_no": 5,
+    "created_at": "2026-05-24T17:27:57.422695",
+    "updated_at": "2026-05-25T10:06:44.899412",
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "approve",
+      "comment": "审核通过",
+      "reviewed_at": "2026-05-25T10:06:44.899412"
+    }
+  },
+  {
+    "id": 2,
+    "task_id": 1,
+    "dataset_item_id": 11,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 3,
+    "created_at": "2026-05-24T17:28:01.021031",
+    "updated_at": "2026-05-25T15:39:06.311796"
+  },
+  {
+    "id": 3,
+    "task_id": 4,
+    "dataset_item_id": 23,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "approved",
+    "revision_no": 3,
+    "created_at": "2026-05-24T17:28:16.730576",
+    "updated_at": "2026-05-25T15:10:41.039563",
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "approve",
+      "comment": "审核通过",
+      "reviewed_at": "2026-05-25T15:10:41.038567"
+    }
+  },
+  {
+    "id": 4,
+    "task_id": 1,
+    "dataset_item_id": 7,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "overall_comment": "5",
+      "reason": "6",
+      "issue_tags": [],
+      "correction_json": {}
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "overall_comment": "5",
+      "reason": "6",
+      "issue_tags": [],
+      "correction_json": {}
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "overall_comment": "5",
+      "reason": "6",
+      "issue_tags": [],
+      "correction_json": {}
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 7,
+    "created_at": "2026-05-24T17:49:07.979786",
+    "updated_at": "2026-05-25T10:42:18.116059",
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "1",
+      "reviewed_at": "2026-05-25T10:41:12.530669"
+    },
+    "rejected_reason": "1"
+  },
+  {
+    "id": 5,
+    "task_id": 1,
+    "dataset_item_id": 8,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 8,
+    "created_at": "2026-05-24T17:49:14.684262",
+    "updated_at": "2026-05-25T15:09:42.600123",
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "1234",
+      "reviewed_at": "2026-05-25T11:11:46.985749"
+    },
+    "rejected_reason": "1234"
+  },
+  {
+    "id": 6,
+    "task_id": 4,
+    "dataset_item_id": 21,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 5,
+    "created_at": "2026-05-25T09:25:34.101310",
+    "updated_at": "2026-05-25T15:25:26.183992",
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "123",
+      "reviewed_at": "2026-05-25T15:25:11.726774"
+    },
+    "rejected_reason": "123"
+  },
+  {
+    "id": 7,
+    "task_id": 1,
+    "dataset_item_id": 12,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 2,
+    "created_at": "2026-05-25T11:19:38.091510",
+    "updated_at": "2026-05-25T15:40:55.591639"
+  },
+  {
+    "id": 8,
+    "task_id": 1,
+    "dataset_item_id": 13,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 3,
+    "created_at": "2026-05-25T11:19:40.411540",
+    "updated_at": "2026-05-25T15:25:34.495993",
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "理由修改",
+      "reviewed_at": "2026-05-25T15:11:20.094647"
+    },
+    "rejected_reason": "理由修改"
+  },
+  {
+    "id": 9,
+    "task_id": 1,
+    "dataset_item_id": 16,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 2,
+    "created_at": "2026-05-25T15:41:02.658738",
+    "updated_at": "2026-05-25T17:10:25.685624",
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "不合理",
+      "reviewed_at": "2026-05-25T17:03:53.277774"
+    },
+    "rejected_reason": "不合理",
+    "duration_seconds": 0
+  },
+  {
+    "id": 10,
+    "task_id": 1,
+    "dataset_item_id": 15,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 1,
+    "created_at": "2026-05-25T15:41:03.863675",
+    "updated_at": "2026-05-25T15:41:03.863675"
+  },
+  {
+    "id": 11,
+    "task_id": 1,
+    "dataset_item_id": 14,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 1,
+    "created_at": "2026-05-25T15:41:04.519050",
+    "updated_at": "2026-05-25T15:41:04.519050"
+  },
+  {
+    "id": 12,
+    "task_id": 4,
+    "dataset_item_id": 25,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 4,
+    "created_at": "2026-05-25T15:41:05.094663",
+    "updated_at": "2026-05-26T10:38:30.781769",
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "1234",
+      "reviewed_at": "2026-05-25T18:34:14.804343"
+    },
+    "rejected_reason": "1234",
+    "duration_seconds": 0
+  },
+  {
+    "id": 13,
+    "task_id": 4,
+    "dataset_item_id": 24,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 1,
+    "created_at": "2026-05-25T15:41:05.695583",
+    "updated_at": "2026-05-25T15:41:05.695583"
+  },
+  {
+    "id": 14,
+    "task_id": 1,
+    "dataset_item_id": 17,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "1"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "1"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "1"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 3,
+    "created_at": "2026-05-25T15:54:56.227510",
+    "updated_at": "2026-05-25T15:56:35.143881"
+  },
+  {
+    "id": 15,
+    "task_id": 2,
+    "dataset_item_id": 1,
+    "labeler_id": 2,
+    "template_id": 4,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "warning",
+      "reason": "合理"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "warning",
+      "reason": "合理"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "warning",
+      "reason": "合理"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 30,
+    "created_at": "2026-05-25T16:05:40.450936",
+    "updated_at": "2026-05-25T17:17:58.127999",
+    "duration_seconds": 0
+  },
+  {
+    "id": 16,
+    "task_id": 1,
+    "dataset_item_id": 1,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 14,
+    "created_at": "2026-05-25T16:13:53.864147",
+    "updated_at": "2026-05-26T14:53:50.315360",
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "湿哒哒",
+      "reviewed_at": "2026-05-26T14:50:57.096204"
+    },
+    "rejected_reason": "湿哒哒",
+    "duration_seconds": 0
+  },
+  {
+    "id": 17,
+    "task_id": 2,
+    "dataset_item_id": 2,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "safety": "safe",
+      "completeness": "complete",
+      "reason": "123"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "safety": "safe",
+      "completeness": "complete",
+      "reason": "123"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "safety": "safe",
+      "completeness": "complete",
+      "reason": "123"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 2,
+    "created_at": "2026-05-25T17:28:19.616938",
+    "updated_at": "2026-05-25T18:12:21.766644",
+    "duration_seconds": 0
+  },
+  {
+    "id": 18,
+    "task_id": 1,
+    "dataset_item_id": 2,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "medium",
+      "accuracy": "correct",
+      "completeness": "partial",
+      "safety": "safe",
+      "reason": "123"
+    },
+    "annotation_result": {
+      "relevance": "medium",
+      "accuracy": "correct",
+      "completeness": "partial",
+      "safety": "safe",
+      "reason": "123"
+    },
+    "data": {
+      "relevance": "medium",
+      "accuracy": "correct",
+      "completeness": "partial",
+      "safety": "safe",
+      "reason": "123"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 2,
+    "created_at": "2026-05-25T18:11:45.960414",
+    "updated_at": "2026-05-26T11:03:14.924711",
+    "duration_seconds": 0,
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "4321",
+      "reviewed_at": "2026-05-25T18:34:18.756475"
+    },
+    "rejected_reason": "4321"
+  },
+  {
+    "id": 19,
+    "task_id": 2,
+    "dataset_item_id": 3,
+    "labeler_id": 2,
+    "template_id": 4,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "partial",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "123"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "partial",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "123"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "partial",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "123"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 4,
+    "created_at": "2026-05-25T18:12:22.694233",
+    "updated_at": "2026-05-25T18:27:41.918510",
+    "duration_seconds": 0,
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "手打",
+      "reviewed_at": "2026-05-25T18:13:40.965137"
+    },
+    "rejected_reason": "手打"
+  },
+  {
+    "id": 20,
+    "task_id": 2,
+    "dataset_item_id": 4,
+    "labeler_id": 2,
+    "template_id": 4,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "medium",
+      "accuracy": "correct",
+      "completeness": "incomplete",
+      "safety": "unsafe",
+      "reason": "ass啊"
+    },
+    "annotation_result": {
+      "relevance": "medium",
+      "accuracy": "correct",
+      "completeness": "incomplete",
+      "safety": "unsafe",
+      "reason": "ass啊"
+    },
+    "data": {
+      "relevance": "medium",
+      "accuracy": "correct",
+      "completeness": "incomplete",
+      "safety": "unsafe",
+      "reason": "ass啊"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 3,
+    "created_at": "2026-05-25T18:12:43.950440",
+    "updated_at": "2026-05-26T15:24:07.402437",
+    "duration_seconds": 0,
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "阿达撒发发",
+      "reviewed_at": "2026-05-26T15:23:18.000495"
+    },
+    "rejected_reason": "阿达撒发发"
+  },
+  {
+    "id": 21,
+    "task_id": 2,
+    "dataset_item_id": 5,
+    "labeler_id": 2,
+    "template_id": 4,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 3,
+    "created_at": "2026-05-25T18:27:51.280825",
+    "updated_at": "2026-05-26T11:03:13.021058",
+    "duration_seconds": 0
+  },
+  {
+    "id": 22,
+    "task_id": 1,
+    "dataset_item_id": 5,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 2,
+    "created_at": "2026-05-25T18:28:18.030431",
+    "updated_at": "2026-05-26T11:03:10.548469",
+    "duration_seconds": 0
+  },
+  {
+    "id": 23,
+    "task_id": 1,
+    "dataset_item_id": 18,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "partially_correct",
+      "completeness": "partial",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "partially_correct",
+      "completeness": "partial",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "partially_correct",
+      "completeness": "partial",
+      "safety": "safe",
+      "reason": "合理"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 4,
+    "created_at": "2026-05-26T11:03:16.056637",
+    "updated_at": "2026-05-26T15:24:05.170521",
+    "duration_seconds": 0,
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "reject_to_modify",
+      "comment": "阿达",
+      "reviewed_at": "2026-05-26T15:23:11.320763"
+    },
+    "rejected_reason": "阿达"
+  },
+  {
+    "id": 24,
+    "task_id": 1,
+    "dataset_item_id": 19,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "partial",
+      "safety": "risky",
+      "reason": "谁大DF"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "partial",
+      "safety": "risky",
+      "reason": "谁大DF"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "partial",
+      "safety": "risky",
+      "reason": "谁大DF"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 2,
+    "created_at": "2026-05-26T14:11:47.920560",
+    "updated_at": "2026-05-26T14:13:26.112831",
+    "duration_seconds": 0
+  },
+  {
+    "id": 25,
+    "task_id": 1,
+    "dataset_item_id": 20,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "approved",
+    "revision_no": 2,
+    "created_at": "2026-05-26T14:13:28.609761",
+    "updated_at": "2026-05-26T15:23:20.097509",
+    "duration_seconds": 0,
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "approve",
+      "comment": "审核通过",
+      "reviewed_at": "2026-05-26T15:23:20.096510"
+    }
+  },
+  {
+    "id": 26,
+    "task_id": 1,
+    "dataset_item_id": 26,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "是是是"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "是是是"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "complete",
+      "safety": "safe",
+      "reason": "是是是"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 2,
+    "created_at": "2026-05-26T15:56:20.837326",
+    "updated_at": "2026-05-26T15:56:49.323344",
+    "item_snapshot": {
+      "id": 26,
+      "task_id": 1,
+      "raw_data": {
+        "prompt": "请判断以下逻辑推理是否正确：\n\n前提：所有A都是B。所有B都是C。\n\n结论：所有A都是C。\n\nAI判断：正确。",
+        "model_answer": "逻辑推理正确...",
+        "reference": "这是典型的三段论推理，结论有效...",
+        "category": "logical_reasoning",
+        "difficulty": "medium"
+      },
+      "item_data": {
+        "prompt": "请判断以下逻辑推理是否正确：\n\n前提：所有A都是B。所有B都是C。\n\n结论：所有A都是C。\n\nAI判断：正确。",
+        "model_answer": "逻辑推理正确...",
+        "reference": "这是典型的三段论推理，结论有效...",
+        "category": "logical_reasoning",
+        "difficulty": "medium"
+      }
+    },
+    "item_data": {
+      "prompt": "请判断以下逻辑推理是否正确：\n\n前提：所有A都是B。所有B都是C。\n\n结论：所有A都是C。\n\nAI判断：正确。",
+      "model_answer": "逻辑推理正确...",
+      "reference": "这是典型的三段论推理，结论有效...",
+      "category": "logical_reasoning",
+      "difficulty": "medium"
+    },
+    "duration_seconds": 0
+  },
+  {
+    "id": 27,
+    "task_id": 2,
+    "dataset_item_id": 27,
+    "labeler_id": 2,
+    "template_id": 4,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 3,
+    "created_at": "2026-05-26T15:57:19.747514",
+    "updated_at": "2026-05-26T16:40:48.492268",
+    "item_snapshot": {
+      "id": 27,
+      "task_id": 2,
+      "raw_data": {
+        "prompt": "请评估以下多轮对话的连贯性：\n\n用户：今天天气怎么样？\nAI：根据最新信息，今天晴朗，气温25度。\n用户：那适合户外运动吗？\nAI：是的，非常适合跑步或骑行。",
+        "model_answer": "天气信息查询结果...",
+        "reference": "多轮对话评估需关注上下文一致性、信息准确性...",
+        "category": "multi_turn_dialogue",
+        "difficulty": "hard"
+      },
+      "item_data": {
+        "prompt": "请评估以下多轮对话的连贯性：\n\n用户：今天天气怎么样？\nAI：根据最新信息，今天晴朗，气温25度。\n用户：那适合户外运动吗？\nAI：是的，非常适合跑步或骑行。",
+        "model_answer": "天气信息查询结果...",
+        "reference": "多轮对话评估需关注上下文一致性、信息准确性...",
+        "category": "multi_turn_dialogue",
+        "difficulty": "hard"
+      }
+    },
+    "item_data": {
+      "prompt": "请评估以下多轮对话的连贯性：\n\n用户：今天天气怎么样？\nAI：根据最新信息，今天晴朗，气温25度。\n用户：那适合户外运动吗？\nAI：是的，非常适合跑步或骑行。",
+      "model_answer": "天气信息查询结果...",
+      "reference": "多轮对话评估需关注上下文一致性、信息准确性...",
+      "category": "multi_turn_dialogue",
+      "difficulty": "hard"
+    },
+    "duration_seconds": 0
+  },
+  {
+    "id": 28,
+    "task_id": 3,
+    "dataset_item_id": 28,
+    "labeler_id": 2,
+    "template_id": 1,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "incomplete",
+      "safety": "safe",
+      "reason": "撒大大"
+    },
+    "annotation_result": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "incomplete",
+      "safety": "safe",
+      "reason": "撒大大"
+    },
+    "data": {
+      "relevance": "high",
+      "accuracy": "correct",
+      "completeness": "incomplete",
+      "safety": "safe",
+      "reason": "撒大大"
+    },
+    "ai_review": null,
+    "status": "approved",
+    "revision_no": 5,
+    "created_at": "2026-05-26T16:40:50.430827",
+    "updated_at": "2026-05-26T18:34:45.282326",
+    "item_snapshot": {
+      "id": 28,
+      "task_id": 3,
+      "raw_data": {
+        "prompt": "请检查以下数学计算的准确性：\n\n题目：计算 123 × 456 + 789 的值。\n\nAI答案：56073 + 789 = 56862",
+        "model_answer": "56862",
+        "reference": "123×456=56073, 56073+789=56862, 计算正确...",
+        "category": "math_calculation",
+        "difficulty": "easy"
+      },
+      "item_data": {
+        "prompt": "请检查以下数学计算的准确性：\n\n题目：计算 123 × 456 + 789 的值。\n\nAI答案：56073 + 789 = 56862",
+        "model_answer": "56862",
+        "reference": "123×456=56073, 56073+789=56862, 计算正确...",
+        "category": "math_calculation",
+        "difficulty": "easy"
+      }
+    },
+    "item_data": {
+      "prompt": "请检查以下数学计算的准确性：\n\n题目：计算 123 × 456 + 789 的值。\n\nAI答案：56073 + 789 = 56862",
+      "model_answer": "56862",
+      "reference": "123×456=56073, 56073+789=56862, 计算正确...",
+      "category": "math_calculation",
+      "difficulty": "easy"
+    },
+    "duration_seconds": 0,
+    "review_info": {
+      "reviewer_id": 1,
+      "action": "approve",
+      "comment": "审核通过",
+      "reviewed_at": "2026-05-26T18:34:45.281326"
+    },
+    "rejected_reason": "12124"
+  },
+  {
+    "id": 29,
+    "task_id": 4,
+    "dataset_item_id": 29,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 2,
+    "created_at": "2026-05-26T16:41:39.487281",
+    "updated_at": "2026-05-26T18:32:38.909097",
+    "item_snapshot": {
+      "id": 29,
+      "task_id": 4,
+      "raw_data": {
+        "prompt": "请评估以下情感分析的合理性：\n\n文本：这部电影太棒了！演员表演出色，剧情紧凑，强烈推荐！\n\nAI判断：正面情绪，置信度95%。",
+        "model_answer": "正面情绪，置信度95%...",
+        "reference": "文本包含强烈的正面词汇：太棒、出色、强烈推荐...",
+        "category": "sentiment_analysis",
+        "difficulty": "medium"
+      },
+      "item_data": {
+        "prompt": "请评估以下情感分析的合理性：\n\n文本：这部电影太棒了！演员表演出色，剧情紧凑，强烈推荐！\n\nAI判断：正面情绪，置信度95%。",
+        "model_answer": "正面情绪，置信度95%...",
+        "reference": "文本包含强烈的正面词汇：太棒、出色、强烈推荐...",
+        "category": "sentiment_analysis",
+        "difficulty": "medium"
+      }
+    },
+    "item_data": {
+      "prompt": "请评估以下情感分析的合理性：\n\n文本：这部电影太棒了！演员表演出色，剧情紧凑，强烈推荐！\n\nAI判断：正面情绪，置信度95%。",
+      "model_answer": "正面情绪，置信度95%...",
+      "reference": "文本包含强烈的正面词汇：太棒、出色、强烈推荐...",
+      "category": "sentiment_analysis",
+      "difficulty": "medium"
+    },
+    "duration_seconds": 0
+  },
+  {
+    "id": 30,
+    "task_id": 1,
+    "dataset_item_id": 30,
+    "labeler_id": 2,
+    "template_id": 10,
+    "template_name": "问答质量评估模板",
+    "result": {
+      "accuracy": "partially_correct",
+      "relevance": "medium",
+      "completeness": "partial",
+      "safety": "risky",
+      "reason": "21312"
+    },
+    "annotation_result": {
+      "accuracy": "partially_correct",
+      "relevance": "medium",
+      "completeness": "partial",
+      "safety": "risky",
+      "reason": "21312"
+    },
+    "data": {
+      "accuracy": "partially_correct",
+      "relevance": "medium",
+      "completeness": "partial",
+      "safety": "risky",
+      "reason": "21312"
+    },
+    "ai_review": null,
+    "status": "submitted",
+    "revision_no": 2,
+    "created_at": "2026-05-26T18:32:45.094914",
+    "updated_at": "2026-05-26T18:38:39.780065",
+    "item_snapshot": {
+      "id": 30,
+      "task_id": 1,
+      "raw_data": {
+        "prompt": "请评估以下AI回答的质量：\n\n问题：什么是机器学习？\n\nAI回答：机器学习是人工智能的一个分支，它使计算机系统能够从数据中学习并改进性能，而无需显式编程。",
+        "model_answer": "机器学习是人工智能的一个分支...",
+        "reference": "机器学习（Machine Learning）是人工智能的核心领域之一...",
+        "category": "qa_quality",
+        "difficulty": "medium"
+      },
+      "item_data": {
+        "prompt": "请评估以下AI回答的质量：\n\n问题：什么是机器学习？\n\nAI回答：机器学习是人工智能的一个分支，它使计算机系统能够从数据中学习并改进性能，而无需显式编程。",
+        "model_answer": "机器学习是人工智能的一个分支...",
+        "reference": "机器学习（Machine Learning）是人工智能的核心领域之一...",
+        "category": "qa_quality",
+        "difficulty": "medium"
+      }
+    },
+    "item_data": {
+      "prompt": "请评估以下AI回答的质量：\n\n问题：什么是机器学习？\n\nAI回答：机器学习是人工智能的一个分支，它使计算机系统能够从数据中学习并改进性能，而无需显式编程。",
+      "model_answer": "机器学习是人工智能的一个分支...",
+      "reference": "机器学习（Machine Learning）是人工智能的核心领域之一...",
+      "category": "qa_quality",
+      "difficulty": "medium"
+    },
+    "duration_seconds": 0
+  },
+  {
+    "id": 31,
+    "task_id": 2,
+    "dataset_item_id": 31,
+    "labeler_id": 2,
+    "template_id": 4,
+    "template_name": "问答质量评估模板",
+    "result": {},
+    "annotation_result": {},
+    "data": {},
+    "ai_review": null,
+    "status": "claimed",
+    "revision_no": 1,
+    "created_at": "2026-05-26T18:38:42.118837",
+    "updated_at": "2026-05-26T18:38:42.118837",
+    "item_snapshot": {
+      "id": 31,
+      "task_id": 2,
+      "raw_data": {
+        "prompt": "请判断以下对话中AI的回答是否准确且有帮助：\n\n用户：Python和Java有什么区别？\n\nAI回答：Python是一种解释型语言，语法简洁；Java是编译型语言，类型严格。",
+        "model_answer": "Python和Java的主要区别在于执行方式...",
+        "reference": "Python是动态类型、解释型语言；Java是静态类型、编译型语言...",
+        "category": "qa_quality",
+        "difficulty": "easy"
+      },
+      "item_data": {
+        "prompt": "请判断以下对话中AI的回答是否准确且有帮助：\n\n用户：Python和Java有什么区别？\n\nAI回答：Python是一种解释型语言，语法简洁；Java是编译型语言，类型严格。",
+        "model_answer": "Python和Java的主要区别在于执行方式...",
+        "reference": "Python是动态类型、解释型语言；Java是静态类型、编译型语言...",
+        "category": "qa_quality",
+        "difficulty": "easy"
+      }
+    },
+    "item_data": {
+      "prompt": "请判断以下对话中AI的回答是否准确且有帮助：\n\n用户：Python和Java有什么区别？\n\nAI回答：Python是一种解释型语言，语法简洁；Java是编译型语言，类型严格。",
+      "model_answer": "Python和Java的主要区别在于执行方式...",
+      "reference": "Python是动态类型、解释型语言；Java是静态类型、编译型语言...",
+      "category": "qa_quality",
+      "difficulty": "easy"
+    }
+  }
+]
