@@ -164,13 +164,7 @@ AI Precheck Agent 输出结构：
 - 兜底结果标记 `fallback: true`，审计日志记录 `agent_fallback_required`
 - 超过最大重试次数（3次）的任务标记为 `fallback_required`，需人工审核
 
-### 注意事项
 
-- **不要提交 `.env` 文件**，API Key 仅保留在本地
-- 切换回 mock 模式只需设置 `AI_PROVIDER=mock`
-- 支持任何 OpenAI 兼容 API，修改 `LLM_API_BASE_URL` 即可
-
----
 
 ## 启动方式
 
@@ -194,7 +188,7 @@ npm run dev
 
 | 服务 | 地址 |
 |------|------|
-| Frontend | http://localhost:3000 |
+| Frontend | http://localhost:3001 |
 | Backend API | http://localhost:8000 |
 | API Docs (Swagger) | http://localhost:8000/docs |
 
@@ -275,13 +269,3 @@ Demo 场景为 **QA 质量评估任务**，数据字段如下：
 | [docs/quality_agent.md](docs/00_requirement_breakdown.md) | AI 质量治理设计 |
 | [SUBMISSION.md](SUBMISSION.md) | 提交说明 |
 | [CHANGELOG.md](CHANGELOG.md) | 变更日志 |
-
----
-
-## 提交说明
-
-- 不提交 `node_modules/`、`dist/`、`__pycache__/`
-- 不提交本地 `.env` 文件
-- Demo 数据保留（`labelhub.db`、`annotations.json`）
-- 详细清理清单见 [docs/submission_cleanup.md](docs/submission_cleanup.md)
-- Smoke Test 清单见 [docs/smoke_test.md](docs/smoke_test.md)
