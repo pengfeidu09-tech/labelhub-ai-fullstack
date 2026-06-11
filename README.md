@@ -134,7 +134,7 @@ AI Precheck Agent 输出结构：
 }
 ```
 
-> ⚠️ **重要说明**：当前 AI Agent 默认使用 **mock 模式**，返回预设的结构化评分结果，用于演示完整流程和 UI 交互。mock 模式不依赖真实 LLM API，确保 Demo 环境稳定运行。可通过配置切换为阿里云 DashScope 等真实模型。
+> ⚠️ **重要说明**：当前 AI Agent 默认使用 **mock 模式**，返回预设的结构化评分结果，用于演示完整流程和 UI 交互。mock 模式不依赖真实 LLM API，确保 Demo 环境稳定运行。可通过配置切换为阿里云 DashScope qwen3.7-plus等真实模型。
 
 ---
 
@@ -151,7 +151,7 @@ AI Precheck Agent 输出结构：
    ```
    AI_PROVIDER=dashscope
    DASHSCOPE_API_KEY=sk-your-api-key-here
-   DASHSCOPE_MODEL=qwen-turbo
+   DASHSCOPE_MODEL=qwen3.7-plus
    ```
 
 3. 可选模型：`qwen-turbo`（快速）、`qwen3.7-plus`（均衡）、`qwen-max`（高质量）
